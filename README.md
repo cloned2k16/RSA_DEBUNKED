@@ -33,3 +33,7 @@ there's no such things as Triangles and Circles in nature ..
 
 ( yep I did say so , prove otherwise ! )
 
+### PRIME NUMBERS ARE PREDICTABLE ..  
+
+how ? .. well ..  
+
