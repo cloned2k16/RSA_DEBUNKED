@@ -39,9 +39,17 @@ there's no such things as Triangles and Circles in nature ..
 
 ### PRIME NUMBERS ARE PREDICTABLE ..  
 
-how ? .. well ..  
+how ? ..  
+well ..  
+this is a still secret right now, try to figure it out ..  
+as soon as I can finish to write it down, will demonstrate it ..  
 
 #### however, even more funny is that ..  
-You can even get to any private key root,  
-even without using prime numbers,   
-AT ALL ..
+You can even get to any private key 'root numbers',  
+without using prime numbers,   
+AT ALL ..  
+
+basically, once finished with this algorithm,   
+you may be able to find 2 factors   
+of any arbitrary digits length product,  
+without factorization AT ALL.
