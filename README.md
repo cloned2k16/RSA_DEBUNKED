@@ -3,6 +3,8 @@ what if,,
 the ( usual ) ASSUMPTION on which is based the famous ''security'' algorithm you rely on ..  
 IS ACTUALLY FLAWED at the very root ¿?
 
+![images tells more than thowsand words ..](logo.jpg)
+
 ### what's the point ?
 Well,  
 suppose I can predict exactly where and how any prime will show up ?  
