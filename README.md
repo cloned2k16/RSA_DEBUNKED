@@ -39,3 +39,7 @@ there's no such things as Triangles and Circles in nature ..
 
 how ? .. well ..  
 
+#### however, even more funny is that ..  
+You can even get to any private key root,  
+even without using prime numbers,   
+AT ALL ..
