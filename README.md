@@ -73,7 +73,7 @@ so , in short all the supposed **''security''** in **RSA**
 **JUST RELY ON** .. you not being able to deduce **p** & **q**   
 from their product **n**   
 
-because they are chosen just so big ,for you NOT to  be able factorize them ..  
+because they are chosen just so big ,for you NOT to be able to factorize them ..  
 and, prime numbers are like voodoo ghosts that nobody can predict **LOL**  
 
 well, (as usual) your Math gurus were wrong in their ARROGANT ASSUMPTIONS ..    
@@ -97,7 +97,14 @@ you may solve, by using more digits (bits) in your keys ..
 
 **this is about render completely useless, the entire idea of crypto security based on prime numbers modulus math..**  
 
+please note ..  
+you don't really need any special Quantum (**LOL**) computer to do it ..   
+actually can even be done in pure hardware with just TTL gates ;) ( better VLSI today )
 
+I did design something alike for other purpose decades ago  
+( never made it pubblic, so don't waste time looking for )  
+was meant to completely different things  
+however, I'd probably be able to make a single chip which can reverse any private key in no time ..  
 
 
 
