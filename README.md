@@ -107,6 +107,6 @@ was meant to completely different things
 however, I'd probably be able to make a single chip which can reverse any private key in no time ..  
 
 
-
+##### DO NOT feel safe because your crypto FAKE money use ECC (  elliptic curves ) .. they come next ..
 
 
