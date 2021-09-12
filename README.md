@@ -53,6 +53,7 @@ basically, once finished with this algorithm,
 you may be able to find 2 factors   
 of any arbitrary digits length product,  
 without factorization AT ALL.
+see .. https://github.com/cloned2k16/QuantumPrimeNumbersGenerator  
 
 
 #### little accessible introduction, to anybody about what RSA is all about and why it's FLAWED ..
