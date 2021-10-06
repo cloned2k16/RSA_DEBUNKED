@@ -110,4 +110,4 @@ however, I'd probably be able to make a single chip which can reverse any privat
 
 ##### DO NOT feel safe because your crypto FAKE money use ECC (  elliptic curves ) .. they come next ..
 
-
+check also .. https://github.com/cloned2k16/QuantumPrimeNumbersGenerator
